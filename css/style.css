@@ -717,10 +717,12 @@ height: 40px;
 border-color: #4d5ae5;
   }
 
+  .comment  {
+    margin-bottom: 16px;
+  }
 .order-form-checkbox {
     margin-bottom: 24px;
-    margin-top: 16px;
-  }
+     }
 
 .order-form-checkbox-label {
     font-size: 12px;
